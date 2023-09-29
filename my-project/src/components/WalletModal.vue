@@ -3,7 +3,7 @@
   import { mainnet, arbitrum } from '@wagmi/core/chains'
 
   // 1. Get projectId
-  const projectId = '49ae7c5e47248e54f795d66b890abc20'
+  const projectId = ''
 
   // 2. Create wagmiConfig
   const metadata = {
