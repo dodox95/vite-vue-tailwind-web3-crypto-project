@@ -1,0 +1,38 @@
+# VITE/VUE/TAILWIND Crypto Web3 Project
+
+This is a sample crypto web3 project built using Vite, Vue, and TailwindCSS. The application allows users to log in using a web3 wallet, among other features. 
+
+## Setup and Configuration
+
+### 1. WalletConnect Integration
+
+Before starting the application, you need to integrate it with [WalletConnect](https://walletconnect.com/). Add your `projectId` from WalletConnect to the following section in the code:
+
+```javascript
+const projectId = '';
+
+2. Installation
+
+Make sure you have Node.js and npm installed. If not, you can download and install them from here.
+
+Then, navigate to the project directory and install the required packages:
+npm install
+
+3. Running the Project
+
+After successfully installing the required packages, you can run the application using:
+npm run dev
+
+The application will be accessible at http://localhost:3000 or the respective port displayed in your terminal.
+Important Note
+
+This application is a composite of various components sourced and adapted from the web. As such, it's important to note that redirects, further component integrations, and other specifics need to be set up and managed by the user.
+License and Usage
+
+This is a sample website, and its code can be used as a starting point for further development. However, ensure you have the rights to use any external components or libraries that might be included.
+Feedback and Contributions
+
+Feedback is always welcome. If you find any issues or want to add new features, feel free to create a pull request or open an issue.
+About
+
+This project was crafted with ❤️ by dist. For inquiries or further information, you can reach me at office.travilabs@gmail.com
